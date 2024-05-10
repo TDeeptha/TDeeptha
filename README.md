@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Thamara deeptha</h1>
 <h3 align="center">A passionate QA from Sri lanka</h3>
-<img align= "right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D22AQFY2LKpfIIWVg/feedshare-shrink_2048_1536/0/1673026228828?e=2147483647&v=beta&t=-HntsFkKhI4f1jM-cWQ9eJSdwoPMBCcidOoKNyyRFdw.gif">
+<img align= "right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D22AQFY2LKpfIIWVg/feedshare-shrink_2048_1536/0/1673026228828?e=2147483647&v=beta&t=-HntsFkKhI4f1jM-cWQ9eJSdwoPMBCcidOoKNyyRFdw">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tdeeptha&label=Profile%20views&color=0e75b6&style=flat" alt="tdeeptha" /> </p>
 
