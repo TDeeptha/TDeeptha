@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thamara deeptha</h1>
-<!--  -->A
+<!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
-<br>
 
 <img align= "right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D22AQFY2LKpfIIWVg/feedshare-shrink_2048_1536/0/1673026228828?e=2147483647&v=beta&t=-HntsFkKhI4f1jM-cWQ9eJSdwoPMBCcidOoKNyyRFdw">
 
