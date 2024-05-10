@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Thamara deeptha</h1>
-<h3 align="center">A passionate UI/UX designer from Sri lanka</h3>
+<h3 align="center">A passionate QA from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdeeptha&label=Profile%20views&color=0e75b6&style=flat" alt="tdeeptha" /> </p>
 
