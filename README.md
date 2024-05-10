@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Thamara deeptha</h1>
 <h3 align="center">A passionate QA from Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tdeeptha&label=Profile%20views&color=0e75b6&style=flat" alt="tdeeptha" /> </p>
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tdeeptha&label=Profile%20views&color=0e75b6&style=flat" alt="tdeeptha" /> </p>
+
 - 🌱 I’m currently learning **Flutter ,Dart, React native**
 
 - 💬 Ask me about **Java**
